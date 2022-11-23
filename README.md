@@ -1,5 +1,5 @@
 # PROJECTMARS
-MARS-SIM in UE5 
+MARS-SIM in Unity
 
 # 📖TO-DO:
 - Make kickstarter
